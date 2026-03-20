@@ -1,4 +1,4 @@
-# ✨ Arcade Photo Booth (Purikura) ✨
+# ✨ Arcade Photo Booth ✨
 
 A retro, web-based Photo Booth application inspired by Japanese **Purikura** machines and classic arcade aesthetics. Designed for farewell events, parties, and creating fun memories, this lightweight app runs entirely in the browser and outputs high-quality, print-ready photo collages!
 
